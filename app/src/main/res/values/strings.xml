@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="item1">Create</string>
+    <string name="item2">Delete</string>
+    <string name="item3">Delete all</string>
+    <string name="item1cliked">You clicked Create</string>
+    <string name="item2cliked">You clicked Delete</string>
+    <string name="item3cliked">You clicked Delete all</string>
+    <string name="nothing">You didnt click anything</string>
+</resources>
