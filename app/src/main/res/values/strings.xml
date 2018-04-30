@@ -7,4 +7,6 @@
     <string name="item2cliked">You clicked Delete</string>
     <string name="item3cliked">You clicked Delete all</string>
     <string name="nothing">You didnt click anything</string>
+    <string name="add_button">Add text</string>
+    <string name="added_text">What you want to note?</string>
 </resources>
