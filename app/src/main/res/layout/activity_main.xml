@@ -9,20 +9,21 @@
     <android.support.v7.widget.Toolbar
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-        android:id="@+id/toolbar">
+        android:id="@+id/toolbar"
+        android:background="@color/colorPrimary">
 
 
     </android.support.v7.widget.Toolbar>
 
     <android.support.v7.widget.RecyclerView
-        android:id="@+id/list_rv"
+        android:id="@+id/list_recycler"
         android:layout_height="0dp"
         android:layout_width="match_parent"
         app:layout_constraintBottom_toTopOf="@id/linear_layout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/toolbar"
-        android:layout_margin="16dp" />
+        android:layout_margin="8dp" />
 
     <LinearLayout
         android:id="@+id/linear_layout"

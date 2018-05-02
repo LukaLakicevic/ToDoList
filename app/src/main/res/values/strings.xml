@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">ToDoList</string>
-    <string name="item1">Create</string>
-    <string name="item2">Delete</string>
-    <string name="item3">Delete all</string>
-    <string name="item1cliked">You clicked Create</string>
-    <string name="item2cliked">You clicked Delete</string>
-    <string name="item3cliked">You clicked Delete all</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
+    <string name="create_cliked">You clicked Create</string>
+    <string name="delete_cliked">You clicked Delete</string>
+    <string name="delete_all_cliked">You clicked Delete all</string>
     <string name="nothing">You didnt click anything</string>
     <string name="add_button">Add text</string>
     <string name="added_text">What you want to note?</string>
