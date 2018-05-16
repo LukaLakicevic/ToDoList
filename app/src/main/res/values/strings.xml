@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">ToDoList</string>
     <string name="create">Create</string>
+    <string name="edit">EditText</string>
     <string name="delete">Delete</string>
     <string name="delete_all">Delete all</string>
     <string name="create_cliked">You clicked Create</string>
+    <string name="edit_cliked">You clicked Edit</string>
     <string name="delete_cliked">You clicked Delete</string>
     <string name="delete_all_cliked">You clicked Delete all</string>
     <string name="nothing">You didnt click anything</string>
